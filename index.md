@@ -12,6 +12,8 @@ class: home
 I'm an aspiring researcher in Deep-Learning with focus on medical imaging and self-supervised learning. I am currently investigating Self-Supervised methods from the lens of Vector Quantization with [Dr. Prashnna K. Gyawali](http://www.pkgyawali.com/). Previously I worked with [Prof. Linwei Wang](https://pht180.rit.edu/cblwang/linwei-wang/) and [Dr. Prashnna K. Gyawali](http://www.pkgyawali.com/) on Disease-aware image editing on Chest X-rays. Before that I worked as a Machine Learning Engineer at [CARING Research, India](https://caring-research.com/), primarily working on Image-to-Image translation and Image Editing problems with [Prof. Hacer Yalim Keles](https://scholar.google.com/citations?user=noo7zCUAAAAJ&hl=en) and [Dr. Kai Dierkes](http://kaidierkes.net/).
 
 I graduated from Delhi College of Engineering, India in 2019 with a bachelor’s degree in Industrial engineering and was fortunate to be advised by Prof. Shamsher. In the summer of 2018, I worked as a Machine Learning intern at [Complex System Lab](https://cosylab.iiitd.edu.in/) under [Dr. Ganesh Bagler](https://scholar.google.co.in/citations?hl=en&user=qyth_0QAAAAJ&view_op=list_works&sortby=pubdate). In the same year, I also interned in the Computer Vision Team at UNSW, Australia under [Prof. Arcot Sawmya](https://www.cse.unsw.edu.au/~sowmya/)
+
+My research interests include Image Editing using GANs, Image-to-Image translation, Unsupervised methods in image clustering and segmentation.
 </div>
 
 <div class="me" markdown="1">
