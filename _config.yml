@@ -2,7 +2,7 @@
 title: Aakash Saboo
 email: aakashsaboo2@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   Industrial Engineer. Researching in Medical Imaging and Self-Supervised Learning
+   Industrial Engineer. Researching in Medical Imaging and Self-Supervised Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.aakash-saboo.github.io" # the base hostname & protocol for your site
 production_url: "https://www.aakash-saboo.github.io"
