@@ -4,7 +4,7 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Aakash Saboo
 
 <div class="columns" markdown="1">
 
@@ -18,9 +18,9 @@ My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/aakash.webp' type='image/webp' />
+  <source srcset='/images/aakash_440.webp' type='image/webp' />
   <img
-    src='/images/aakash.jpg'
+    src='/images/aakash_440.jpg'
     alt='Aakash Saboo'>
 </picture>
 
