@@ -4,17 +4,14 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Aakash Saboo
+# Hi, I'm Aakash!
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm faculty at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/).
+I'm an aspiring researcher in Deep-Learning with focus on medical imaging and self-supervised learning. I am currently investigating Self-Supervised methods from the lens of Vector Quantization with [Dr. Prashnna K. Gyawali](http://www.pkgyawali.com/). Previously I worked with (Prof. Linwei Wang)(https://pht180.rit.edu/cblwang/linwei-wang/) and (Dr. Prashnna K. Gyawali)[http://www.pkgyawali.com/] on Disease-aware image editing on Chest X-rays. Before that I worked as a Machine Learning Engineer at [CARING Research, India](https://caring-research.com/), primarily working on Image-to-Image translation and Image Editing problems with [Prof. Hacer Yalim Keles](https://scholar.google.com/citations?user=noo7zCUAAAAJ&hl=en) and [Dr. Kai Dierkes](http://kaidierkes.net/).
 
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
-
-My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
-</div>
+I graduated from Delhi College of Engineering, India in 2019 with a bachelor’s degree in Industrial engineering and was fortunate to be advised by Prof. Shamsher. In the summer of 2018, I worked as a Machine Learning intern at [Complex System Lab](https://cosylab.iiitd.edu.in/) under [Dr. Ganesh Bagler](https://scholar.google.co.in/citations?hl=en&user=qyth_0QAAAAJ&view_op=list_works&sortby=pubdate). In the same year, I also interned in the Computer Vision Team at UNSW, Australia under [Prof. Arcot Sawmya](https://www.cse.unsw.edu.au/~sowmya/)
 
 <div class="me" markdown="1">
 <picture>
