@@ -23,14 +23,35 @@
   description: "Competed in RSNA Brain Hemorrhage detection and classification challenge. The final model ranked 68/1300 teams"
   highlight: 1
 
-- title: Vega-Lite
-  url: https://vega.github.io/vega-lite
-  code: https://github.com/vega/vega-lite
-  paper: /papers/2017-VegaLite-InfoVis.pdf
-  demo: https://vega.github.io/editor/#/examples/vega-lite/interactive_seattle_weather
-  recording: https://www.youtube.com/watch?v=9uaHRWj04D4
-  image: vl.jpg
-  description: "I am the co-author of Vega-Lite, a high-level visualization grammar for rapid specification of interactive, multi-view graphics."
+- title: Localized Chest X-ray editing
+  url: 
+  code: 
+  paper:
+  demo: 
+  recording: 
+  image: 
+  description: "Proposed a novel framwork for localized Image Editing of Chest X-rays to confer Opacity and Cardiomegaly in the user-defined Region of Interest"
+  highlight: 4
+  
+  
+- title: Skin Lesion classification (Kaggle)
+  url: 
+  code: 
+  paper:
+  demo: 
+  recording: 
+  image: 
+  description: "Competed in the Skin Lesion Classification challenge"
+  highlight: 4
+  
+- title: Self-supervised Learning with Vector Quantization (ONGOING)
+  url: 
+  code: 
+  paper:
+  demo: 
+  recording: 
+  image: manifold-xray.png
+  description: "Investigating SoTA frameworks like SimCLR, MOCO and Barlow Twins with Vector Quantized bottleneck"
   highlight: 4
 
 
