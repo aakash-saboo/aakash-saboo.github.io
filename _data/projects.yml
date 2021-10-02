@@ -5,12 +5,12 @@
   paper: https://arxiv.org/pdf/2109.01071.pdf
   image: CRG_cycle.png
   description: "Proposed a novel method and training strategy to embed and edit Cardiac size of a Real Chest X-ray image using GAN"
-  highlight: 2
+  highlight: 1
 
 - title: CT to PET Image Translation
   image: CT_PET.png
   description: "Built an Image to Image translation model for high-fidelity CT scan to PET scan image translation "
-  highlight: 3
+  highlight: 2
 
 - title: CareXnet
   image: Carexnet.png
@@ -21,7 +21,6 @@
   code: https://github.com/uwdata/draco
   image: draco.jpg
   description: "Competed in RSNA Brain Hemorrhage detection and classification challenge. The final model ranked 68/1300 teams"
-  highlight: 1
 
 - title: Localized Chest X-ray editing
   url: 
@@ -29,7 +28,7 @@
   paper:
   demo: 
   recording: 
-  image: 
+  image:  manifold-xray.png
   description: "Proposed a novel framwork for localized Image Editing of Chest X-rays to confer Opacity and Cardiomegaly in the user-defined Region of Interest"
   highlight: 4
   
@@ -50,7 +49,7 @@
   paper:
   demo: 
   recording: 
-  image: manifold-xray.png
+  image: 
   description: "Investigating SoTA frameworks like SimCLR, MOCO and Barlow Twins with Vector Quantized bottleneck"
   highlight: 4
 
