@@ -76,7 +76,7 @@ title: CV
 {% endfor %}
 
 
-<h2>Notable Awards</h2>
+<!-- <h2>Notable Awards</h2>
 
 {% for award in site.data.awards %}
 <article>
@@ -89,7 +89,7 @@ title: CV
     {{ award.description }}
   </p>
 </article>
-{% endfor %}
+{% endfor %} -->
 
 
 <h2>Publications <a href="{{ '/publications/' | absolute_url }}">[Interactive Version]</a></h2>
@@ -161,7 +161,7 @@ title: CV
 {% endfor %}
 
 
-<h2>Patents</h2>
+<!-- <h2>Patents</h2>
 
 {% for patent in site.data.patents %}
   <div class="date-container">
@@ -175,10 +175,10 @@ title: CV
       {% endfor %}
     </p>
   </div>
-{% endfor %}
+{% endfor %} -->
 
 
-<h2>Mentoring</h2>
+<!-- <h2>Mentoring</h2>
 
 {% assign filtered_mentoring = site.data.mentoring | where_exp:'item','item.hidden == null' %}
 {% for mentor in filtered_mentoring %}
@@ -200,10 +200,10 @@ title: CV
       </ul>
     {% endif %}
   </p>
-{% endfor %}
+{% endfor %} -->
 
 
-<h2>Talks  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
+<!-- <h2>Talks  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
@@ -218,10 +218,10 @@ title: CV
     </div>
   {% endfor %}
 </article>
-{% endfor %}
+{% endfor %} -->
 
 
-<h2>Teaching</h2>
+<!-- <h2>Teaching</h2>
 
 {% for teach in site.data.teaching %}
 <article>
@@ -242,9 +242,9 @@ title: CV
   </p>
 </article>
 {% endfor %}
+ -->
 
-
-<h2>Service</h2>
+<!-- <h2>Service</h2>
 
 <p>
   Reviewer for ACM CHI, IEEE VIS, TVCG, EuroVis, PacificVis, Computers & Graphics, HILDA, and DSIA.
@@ -254,9 +254,9 @@ title: CV
   <!-- <br/>
   Member of the <a href="https://frictionlessdata.io/">Frictionless Data</a> working group that aims to submit a specification to the <a href="https://www.ietf.org/">IETF</a>. -->
 </p>
+ -->
 
-
-<!-- <h2>Relevant Coursework</h2>
+<h2>Relevant Coursework</h2>
 
 {% for institution in site.data.courses %}
 <article>
@@ -267,46 +267,32 @@ title: CV
     </ul>
   </div>
 </article>
-{% endfor %} -->
+{% endfor %}
 
 
 <h2>References</h2>
 
 <div class="refs">
   <p>
-    <strong>Jeffrey Heer</strong><br/>
-    Professor of Computer Science & Engineering<br/>
-    <i>University of Washington</i><br/>
-    <a href="https://homes.cs.washington.edu/~jheer/">homes.cs.washington.edu/~jheer/</a>
+    <strong>Dr. Prashnna K. Gyawali</strong><br/>
+    PostDoc at Dept. of Neurology & Neurological Science <br/>
+    <i>Stanford University</i><br/>
+    <a href="http://www.pkgyawali.com/">http://www.pkgyawali.com/</a>
   </p>
 
   <p>
-    <strong>Bill Howe</strong><br/>
-    Professor at the Information School<br/>
-    <i>University of Washington</i><br/>
-    <a href="https://faculty.washington.edu/billhowe/">faculty.washington.edu/billhowe/</a>
+    <strong>Prof. Linwei Wang</strong><br/>
+    Professor at PhD Program of Computing and Information Sciences<br/>
+    <i>Rochester Institute of Technology</i><br/>
+    <a href="https://pht180.rit.edu/cblwang/linwei-wang/">https://pht180.rit.edu/cblwang/linwei-wang/</a>
   </p>
 
+  
   <p>
-    <strong>Danyel Fisher</strong><br/>
-    Principal Design Researcher<br/>
-    <i>Honeycomb</i><br/>
-    Former Senior Researcher at Microsoft Research<br/>
-    <a href="https://danyelfisher.info/">danyelfisher.info/</a>
-  </p>
-
-  <p>
-    <strong>Tim Kraska</strong><br/>
-    Professor of Electrical Engineering & Computer Science<br/>
-    <i>Massachusetts Institute of Technology</i><br/>
-    <a href="https://people.csail.mit.edu/kraska/">people.csail.mit.edu/kraska/</a>
-  </p>
-
-  <p>
-    <strong>Steven Franconeri</strong><br/>
-    Professor of Psychology<br/>
-    <i>Northwestern University</i><br/>
-    <a href="https://psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html">psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html</a>
+    <strong>Prof. Hacer Yalim Keles</strong><br/>
+    Assoc. Prof. Dr. at Hacettepe University<br/>
+    <i>Hacettepe University</i><br/>
+    <a href="https://scholar.google.com/citations?user=noo7zCUAAAAJ&hl=en">https://scholar.google.com/citations?user=noo7zCUAAAAJ&hl=en</a>
   </p>
 </div>
 
