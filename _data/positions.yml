@@ -1,14 +1,17 @@
 - title: Research Trainee
   years: April 2021 - Present
   company: Stanford University
-  mentors: Dr. Prashnna K. Gyawali
+  mentors: 
+    - Dr. Prashnna K. Gyawali
   location: California, CA
   description: Working on improving SOTA Self-Supervised methods with Quantization methods.
   
 - title: Research Trainee
   years: November 2020 - April 2021
   company: Rochester Institute of Technology
-  mentors: Dr. Prashnna K. Gyawali, Prof. Linwei Wang
+  mentors: 
+    - Dr. Prashnna K. Gyawali 
+    - Prof. Linwei Wang
   location: Rochester, NY
   description: Worked on Image editing frameworks on Chest X-rays. Proposed a novel method for localized disease-aware image editing on Chest X-rays.
   
@@ -16,43 +19,26 @@
   years: May 2019 - November 2020
   company: CARING Research
   location: New Delhi, India
-  skills:
-    - Machine Learning
-    - Python
-- title: Research Assistant
-  years: 2013-2019
-  company: University of Washington
-  location: Seattle, WA
-  mentors:
-    - Jeffrey Heer
-    - Bill Howe
+  description: Designed, implemented and evaluated new models for Image to Image translation from CT Scan to PET Scan, Pneumonia detection and classification. Also worked on deployment of AI algorithms on the in-house platform CARPL.
+  
 - title: Research Intern
-  years: 2017
-  company: Microsoft Research
-  group: HCI
-  location: Redmond, WA
+  years: November 2018 - April 2019
+  company: University of New South Wales
+  group: Computer Vision Group
+  location: Sydney, Australia
   mentors:
-    - Danyel Fisher
-  description: In collaboration with the PowerBI team, we developed visualization alternatives that scale to large numbers of records. So far, we have submitted a paper and a patent on part of this project but there is more to come. As a side project, I worked on visualization recommendation using constraints.
-  skills:
-    - Scalable Visualization
-    - PowerBI
-    - Visualization Recommendation
+    - Prof. Arcot Sawmya
+  description: Worked on classification of diabetic retinopathy lesions on ultra-wide field fundus images. Evaluated and designed multiple Deep-Learning models. Collaborated with multiple Ophthalmologists for determining clinical relevant features.
+  
 - title: Research Intern
-  years: 2016
-  company: Microsoft Research
-  group: VIBE/HCI and DMX
-  location: Redmond, WA
+  years: April 2018- September 2018
+  company: IIIT-Delhi
+  group: CosyLab
+  location: New Delhi, India
   mentors:
-    - Danyel Fisher
-    - Bolin Ding
-    - Chi Wang
-  description: Developed and user tested a UI for an approximate query processing system. Published a CHI paper, two workshop papers, and [filed](https://patents.google.com/patent/US20180260451A1) [three](https://patents.google.com/patent/US20180260985A1) [patents](https://patents.google.com/patent/US20180260450A1).
-  project: Pangloss
-  skills:
-    - Approximate Query Processing
-    - Visualization
-    - UX
+    - Prof. Ganesh Bagler
+  description: Worked on designing and implementing a predictive model using Machine Learning and Graph theory to predict the odor of a molecule given its 2000-Dimensional features. The work involved combination of Graph theory, Natural language processing, unsupervised and supervised learning, Dimension reduction techniques on a small and sparse data.
+
 - title: Research Intern
   years: 2015
   company: Google Research
