@@ -31,7 +31,7 @@
   demo: 
   recording: 
   image:  manifold-xray.png
-  description: "Proposed a novel framwork for localized Image Editing of Chest X-rays to confer Opacity and Cardiomegaly in the user-defined Region of Interest"
+  description: "Proposed a novel framework for localized Image Editing of Chest X-rays to confer Opacity and Cardiomegaly in the user-defined Region of Interest"
   highlight: 3
   
   
