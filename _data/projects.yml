@@ -21,6 +21,7 @@
 - title: Brain Hemorrhage classification (Kaggle)
   code: https://github.com/uwdata/draco
   image: draco.jpg
+  code: https://github.com/aakash-saboo/kaggle_rsna_19
   description: "Competed in RSNA Brain Hemorrhage detection and classification challenge. The final model ranked 68/1300 teams"
 
 - title: Localized Chest X-ray editing
