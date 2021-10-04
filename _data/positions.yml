@@ -31,21 +31,10 @@
   description: Worked on classification of diabetic retinopathy lesions on ultra-wide field fundus images. Evaluated and designed multiple Deep-Learning models. Collaborated with multiple Ophthalmologists for determining clinical relevant features.
   
 - title: Research Intern
-  years: April 2018- September 2018
+  years: April 2018 - September 2018
   company: IIIT-Delhi
   group: CosyLab
   location: New Delhi, India
   mentors:
     - Prof. Ganesh Bagler
   description: Worked on designing and implementing a predictive model using Machine Learning and Graph theory to predict the odor of a molecule given its 2000-Dimensional features. The work involved combination of Graph theory, Natural language processing, unsupervised and supervised learning, Dimension reduction techniques on a small and sparse data.
-  
-  - title: Research Intern
-  years: August 2018- Januray 2019
-  company: CSIR-CEERI
-  group: Computer Vision Group
-  location: New Delhi, India
-  mentors:
-    - Dr. Manoj Sharma
-  description: Evaluated multiple DL algorithms on Facial Antispoofing using Deep-Learning funded by LG. Designed and implemented multiple models for Lung disease detection on CT scans
-
-
