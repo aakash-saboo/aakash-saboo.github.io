@@ -15,7 +15,7 @@
 
 - title: CareXnet
   image: Carexnet.png
-  slides: 
+  article: https://1drv.ms/p/s!AphqNuuW1Q0slC66xMYq0sfjppY9?e=4jjXBc 
   description: "Developed a Chest X-ray Image classification framework to detect and classify various pathologies including covid with the help of clinical rules."
 
 - title: Brain Hemorrhage classification (Kaggle)
