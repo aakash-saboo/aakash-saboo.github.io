@@ -10,7 +10,7 @@
 - title: CT to PET Image Translation
   image: CT_PET.png
   description: "Built an Image to Image translation model for high-fidelity CT scan to PET scan image translation "
-  url: https://1drv.ms/p/s!AphqNuuW1Q0sjiFeAwe1tV0831QO?e=4qgVw1
+  article: https://1drv.ms/p/s!AphqNuuW1Q0sjiFeAwe1tV0831QO?e=4qgVw1
   highlight: 2
 
 - title: CareXnet
