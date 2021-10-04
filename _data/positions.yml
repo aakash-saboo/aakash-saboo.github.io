@@ -1,18 +1,21 @@
 - title: Research Trainee
   years: April 2021 - Present
   company: Stanford University
+  mentors: Dr. Prashnna K. Gyawali
   location: California, CA
   description: Working on improving SOTA Self-Supervised methods with Quantization methods.
-- title: Research Scientist
-  years: 2019-present
-  company: Apple
-  location: Seattle, WA and Pittsburgh, PA
-  skills:
-    - Machine Learning
-- title: Researcher
-  years: 2019
-  company: Streamlit
-  location: San Fracisco, CA
+  
+- title: Research Trainee
+  years: November 2020 - April 2021
+  company: Rochester Institute of Technology
+  mentors: Dr. Prashnna K. Gyawali, Prof. Linwei Wang
+  location: Rochester, NY
+  description: Worked on Image editing frameworks on Chest X-rays. Proposed a novel method for localized disease-aware image editing on Chest X-rays.
+  
+- title: Machine Learning Engineer
+  years: May 2019 - November 2020
+  company: CARING Research
+  location: New Delhi, India
   skills:
     - Machine Learning
     - Python
