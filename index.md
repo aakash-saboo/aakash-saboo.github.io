@@ -13,7 +13,7 @@ I'm a budding researcher in Deep-Learning with focus on medical imaging and self
 
 I graduated from Delhi College of Engineering, India in 2019 with a bachelor’s degree in Industrial engineering and was fortunate to be advised by Prof. Samsher. In the summer of 2018, I worked as a Machine Learning intern at [Complex System Lab](https://cosylab.iiitd.edu.in/) under [Dr. Ganesh Bagler](https://scholar.google.co.in/citations?hl=en&user=qyth_0QAAAAJ&view_op=list_works&sortby=pubdate). In the same year, I also interned in the Computer Vision Team at UNSW, Australia under [Prof. Arcot Sawmya](https://www.cse.unsw.edu.au/~sowmya/)
 
-My research interests include Image Editing using GANs, Image-to-Image translation, Unsupervised methods in image clustering and segmentation. If you have similar interest, don't be hesitant to connect with me. 
+My research interests include Image Editing using GANs, Image-to-Image translation, Unsupervised methods in image clustering, segmentation and disentangled representation learning. If you have similar interest, don't be hesitant to connect with me. 
 </div>
 
 <div class="me" markdown="1">
