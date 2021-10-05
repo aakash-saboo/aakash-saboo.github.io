@@ -35,14 +35,14 @@
   highlight: 3
   
   
-- title: Skin Lesion classification (Kaggle)
+- title: Skin Lesion Segmentation and Classification
   url: 
   code: 
-  paper:
+  paper: /papers/2018-skinseg.pdf
   demo: 
   recording: 
-  image: 
-  description: "Competed in the Skin Lesion Classification challenge"
+  image: skinseg.png
+  description: "Utilized traditional image processing techniques to segment skin lesion and Neural Netowork for classification"
   highlight:
   
 - title: Self-supervised Learning with Vector Quantization (ONGOING)
