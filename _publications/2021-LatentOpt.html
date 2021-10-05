@@ -18,7 +18,7 @@ tags:
   - Image Editing
   - Chest X-rays
   - Data Augmentation
-venue: British Machine Vision Conference (BMVC) 2021
+venue: British Machine Vision Conference (BMVC)
 ---
 
 Data augmentation addresses the critical challenge of limited data in medical imag-ing.  While generative adversarial networks (GANs) have been a popular choice in syn-thesizing medical images, controlled generation targeting disease-specific semantic hasbeen difficult, partly due to the difficulty to disentangle local disease-specific semanticfactors from global disease-irrelevant factors.  In this work, we present a semantic im-age editing framework for medical image augmentation that is able to generate smoothvariations along the desired direction of disease attributes in user-defined regions of in-terest.  This is achieved by discovering the optimal trajectory on the latent manifold ofa pre-trained StyleGAN, guided by a mask of the region of interest and explicitly con-strained by desired directions of semantic changes. We test the presented method on thepublic Chest X-ray dataset. To evaluate the quality of the generated medical images, weleverage both domain experts (pulmonologists) for qualitative assessments and present anovel metric to quantify the ability of the presented method to generate progression ofdisease severity in the synthesized images. Finally, we demonstrate that data augmenta-tion using the presented method improves generalization for downstream classificationtasks.
