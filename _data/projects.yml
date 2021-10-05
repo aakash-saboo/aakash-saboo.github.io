@@ -27,7 +27,7 @@
 - title: Localized Chest X-ray editing
   url: 
   code: 
-  paper:
+  paper: /papers/2021-BMVC.pdf
   demo: 
   recording: 
   image:  manifold-xray.png
