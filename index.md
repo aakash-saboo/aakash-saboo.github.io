@@ -77,5 +77,5 @@ My research interests include Image Editing using GANs, Image-to-Image translati
       <p align="right">
         <font size="2">
 <a href="https://github.com/jonbarron/jonbarron_website">source code</a> </p>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6ndW0_w1_ZL5Qlx7KLytrbCYgBbGUiDEgB32j2XrJxo&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FjqctmDvHyc-xjFkkaWKoFCLrG4-wwKerC2J7vK-UH8&cl=ffffff&w=a"></script>
 
