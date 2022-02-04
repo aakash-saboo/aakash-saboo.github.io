@@ -71,7 +71,7 @@ My research interests include Image Editing using GANs, Image-to-Image translati
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr>
     <td width="200%" valign="middle">
-     <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
     <tr>
 
       <p align="right">
