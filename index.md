@@ -68,7 +68,7 @@ My research interests include Image Editing using GANs, Image-to-Image translati
 </a>
 
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr>
     <td width="100%" valign="middle">
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
@@ -76,6 +76,7 @@ My research interests include Image Editing using GANs, Image-to-Image translati
 
       <p align="right">
         <font size="2">
-          <a href="https://github.com/jonbarron/jonbarron_website">source code</a> </p>
+          <a href="https://github.com/jonbarron/jonbarron_website">source code</a> </p> -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FjqctmDvHyc-xjFkkaWKoFCLrG4-wwKerC2J7vK-UH8&cl=ffffff&w=a"></script>
+hi
 
